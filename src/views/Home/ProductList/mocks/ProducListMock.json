@@ -1,0 +1,62 @@
+{
+  "userSuggestions": [
+    {
+      "id": "0",
+      "description": "Feito a base de chocolate",
+      "image": "https://firebasestorage.googleapis.com/v0/b/twelve-7a72c.appspot.com/o/image%201.png?alt=media&token=1143a4d7-c293-4c8c-842b-55d2da4147b0",
+      "price": "R$23,00",
+      "title": "Cupcake 1"
+    },
+    {
+      "id": "1",
+      "description": "Delicioso bolo de baunilha",
+      "image": "https://firebasestorage.googleapis.com/v0/b/twelve-7a72c.appspot.com/o/image%201.png?alt=media&token=1143a4d7-c293-4c8c-842b-55d2da4147b0",
+      "price": "R$20,00",
+      "title": "Cupcake 2"
+    },
+    {
+      "id": "2",
+      "description": "Bolo de morango fresco",
+      "image": "https://firebasestorage.googleapis.com/v0/b/twelve-7a72c.appspot.com/o/image%201.png?alt=media&token=1143a4d7-c293-4c8c-842b-55d2da4147b0",
+      "price": "R$25,00",
+      "title": "Cupcake 3"
+    },
+    {
+      "id": "3",
+      "description": "Cupcake de limão",
+      "image": "https://firebasestorage.googleapis.com/v0/b/twelve-7a72c.appspot.com/o/image%201.png?alt=media&token=1143a4d7-c293-4c8c-842b-55d2da4147b0",
+      "price": "R$18,00",
+      "title": "Cupcake 4"
+    }
+  ],
+  "frequentlyAsked": [
+    {
+      "id": "0",
+      "description": "Feito a base de chocolate",
+      "image": "https://firebasestorage.googleapis.com/v0/b/twelve-7a72c.appspot.com/o/image%201.png?alt=media&token=1143a4d7-c293-4c8c-842b-55d2da4147b0",
+      "price": "R$23,00",
+      "title": "Cupcake 1"
+    },
+    {
+      "id": "1",
+      "description": "Delicioso bolo de baunilha",
+      "image": "https://firebasestorage.googleapis.com/v0/b/twelve-7a72c.appspot.com/o/image%201.png?alt=media&token=1143a4d7-c293-4c8c-842b-55d2da4147b0",
+      "price": "R$20,00",
+      "title": "Cupcake 2"
+    },
+    {
+      "id": "2",
+      "description": "Bolo de morango fresco",
+      "image": "https://firebasestorage.googleapis.com/v0/b/twelve-7a72c.appspot.com/o/image%201.png?alt=media&token=1143a4d7-c293-4c8c-842b-55d2da4147b0",
+      "price": "R$25,00",
+      "title": "Cupcake 3"
+    },
+    {
+      "id": "3",
+      "description": "Cupcake de limão",
+      "image": "https://firebasestorage.googleapis.com/v0/b/twelve-7a72c.appspot.com/o/image%201.png?alt=media&token=1143a4d7-c293-4c8c-842b-55d2da4147b0",
+      "price": "R$18,00",
+      "title": "Cupcake 4"
+    }
+  ]
+}

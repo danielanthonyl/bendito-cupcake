@@ -1,0 +1,3 @@
+export enum SHOP_TYPES {
+  FETCH_SHOP_LIST = 'FETCH_SHOP_LIST',
+}
